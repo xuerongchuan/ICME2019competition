@@ -12,14 +12,15 @@ https://www.52caml.com/head_first_ml/ml-chapter9-factorization-family/
 
 https://github.com/challenge-ICME2019-Bytedance/Bytedance_ICME_challenge
 
+使用方法：
+1. 下载数据
 用sklearn分训练集和测试集：
 https://pan.baidu.com/s/1hpnwdTWEdRpS1JEN6KfF_Q
-
-运行：
+2. 运行
 在文件夹路径下：
 `python train.py --training_path <train.csv路径(不用加引号)> --validation_path <val.csv 路径>`
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTgxMTEyNTAxLC05ODI2OTc1OTQsODUzMz
+eyJoaXN0b3J5IjpbNzMzOTYzMTE1LC05ODI2OTc1OTQsODUzMz
 MwNjAxLDE1NDM2NjQ2MDksLTE3OTA3NjcyNjBdfQ==
 -->
