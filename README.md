@@ -17,9 +17,9 @@ https://pan.baidu.com/s/1hpnwdTWEdRpS1JEN6KfF_Q
 
 运行：
 在文件夹路径下：
-``
+`python train.py --training_path <train.csv路径(不用加引号)> --validation_path <val.csv 路径>`
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0NDM3MjAzOCwtOTgyNjk3NTk0LDg1Mz
-MzMDYwMSwxNTQzNjY0NjA5LC0xNzkwNzY3MjYwXX0=
+eyJoaXN0b3J5IjpbOTgxMTEyNTAxLC05ODI2OTc1OTQsODUzMz
+MwNjAxLDE1NDM2NjQ2MDksLTE3OTA3NjcyNjBdfQ==
 -->
