@@ -15,7 +15,11 @@ https://github.com/challenge-ICME2019-Bytedance/Bytedance_ICME_challenge
 用sklearn分训练集和测试集：
 https://pan.baidu.com/s/1hpnwdTWEdRpS1JEN6KfF_Q
 
+运行：
+在文件夹路径下：
+``
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4MjY5NzU5NCw4NTMzMzA2MDEsMTU0Mz
-Y2NDYwOSwtMTc5MDc2NzI2MF19
+eyJoaXN0b3J5IjpbMTU0NDM3MjAzOCwtOTgyNjk3NTk0LDg1Mz
+MzMDYwMSwxNTQzNjY0NjA5LC0xNzkwNzY3MjYwXX0=
 -->
