@@ -12,9 +12,9 @@ https://www.52caml.com/head_first_ml/ml-chapter9-factorization-family/
 https://github.com/challenge-ICME2019-Bytedance/Bytedance_ICME_challenge
 
 用sklearn分训练集和测试集：
-d
+https://pan.baidu.com/s/1hpnwdTWEdRpS1JEN6KfF_Q
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxNTQ3ODk1NSw4NTMzMzA2MDEsMTU0Mz
-Y2NDYwOSwtMTc5MDc2NzI2MF19
+eyJoaXN0b3J5IjpbLTE0MDY5MDA5MDAsODUzMzMwNjAxLDE1ND
+M2NjQ2MDksLTE3OTA3NjcyNjBdfQ==
 -->
