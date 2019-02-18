@@ -1,7 +1,8 @@
 # ICME2019competition
 短视频内容理解与推荐竞赛
 
-因为运算条件原因，所以选择track2
+选择track2 
+
 赛方采用的基线算法为FM
 参考资料： 
 
@@ -15,6 +16,6 @@ https://github.com/challenge-ICME2019-Bytedance/Bytedance_ICME_challenge
 https://pan.baidu.com/s/1hpnwdTWEdRpS1JEN6KfF_Q
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDY5MDA5MDAsODUzMzMwNjAxLDE1ND
-M2NjQ2MDksLTE3OTA3NjcyNjBdfQ==
+eyJoaXN0b3J5IjpbLTk4MjY5NzU5NCw4NTMzMzA2MDEsMTU0Mz
+Y2NDYwOSwtMTc5MDc2NzI2MF19
 -->
